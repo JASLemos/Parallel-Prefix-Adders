@@ -44,6 +44,5 @@ For questions or feedback, feel free to reach out:
 
 - **Email**: d2022004055@unifei.edu.br
 - **GitHub**: [JASLemos](https://github.com/JASLemos)
----****
 
 ---
