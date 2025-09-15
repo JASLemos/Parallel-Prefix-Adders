@@ -23,7 +23,7 @@ The following parallel-prefix adders are included in this repository:
 
 - Knowles
 
-![Knowles](Diagrams/Knowles.jpg)
+![Knowles](Diagrams/Knowles.png)
 
 - Kogge-Stone
 
