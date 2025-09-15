@@ -15,7 +15,7 @@ The following parallel-prefix adders are included in this repository:
 
 - Brent-Kung
 
-![BrentKung](BrentKung.jpeg)
+![BrentKung](Diagrams/BrentKung.jpeg)
 
 - Han-Carlson
 
