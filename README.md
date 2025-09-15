@@ -19,23 +19,23 @@ The following parallel-prefix adders are included in this repository:
 
 - Han-Carlson
 
-![HanCarlson](HanCarlson.jpg)
+![HanCarlson](Diagrams/HanCarlson.jpg)
 
 - Knowles
 
-![Knowles](Knowles.jpg)
+![Knowles](Diagrams/Knowles.jpg)
 
 - Kogge-Stone
 
-![Kogge](Block-Diagram-of-8-bit-Kogge-Stone-Adder.png)
+![Kogge](Diagrams/Block-Diagram-of-8-bit-Kogge-Stone-Adder.png)
 
 - Ladner-Fischer
 
-![LadnerFischer](bit-Ladner-Fischer-adder.png)
+![LadnerFischer](Diagrams/bit-Ladner-Fischer-adder.png)
 
 - Sklansky
 
-![Sklansky](Sklansky.png)
+![Sklansky](Diagrams/Sklansky.png)
 
 
 ---
