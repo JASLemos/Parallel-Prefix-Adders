@@ -15,26 +15,34 @@ The following parallel-prefix adders are included in this repository:
 
 - Brent-Kung
 
+![BrentKung](BrentKung.jpeg)
+
 - Han-Carlson
+
+![HanCarlson](HanCarlson.jpg)
 
 - Knowles
 
+![Knowles](Knowles.jpg)
+
 - Kogge-Stone
+
+![Kogge](Block-Diagram-of-8-bit-Kogge-Stone-Adder.png)
 
 - Ladner-Fischer
 
+![LadnerFischer](bit-Ladner-Fischer-adder.png)
+
 - Sklansky
+
+![Sklansky](Sklansky.png)
+
 
 ---
 
 ## Getting Started
 To use these adders, you will need a Verilog simulator. The included testbench.v file can be used to test the functionality of each adder.
 The testbench generates *N* ammounts of random test cases, feel fee to change it to your desires.
-
----
-
-## Block Diagrams
-The repository includes block diagrams for each of the implemented adders, providing a visual representation of their architecture.
 
 ---
 
